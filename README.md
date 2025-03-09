@@ -61,3 +61,4 @@ namespace RecordsStructureTask1
         }
     }
 }
+https://github.com/user-attachments/assets/dbf72a37-4b2a-4b45-b320-0c84e8e273de
